@@ -5,5 +5,5 @@
   
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budtmo&row=2&column=3"></a>
   
-  <img src="https://komarev.com/ghpvc/?username=budtmo&label=Profile%20views&color=bluestyle=plastic" alt="budtmo" />
+  <img src="https://komarev.com/ghpvc/?username=budtmo&label=Profile%20views&color=blue&style=plastic" alt="budtmo" />
 </p>
